@@ -1,6 +1,7 @@
 >Changed block
 
-I complete this challenge 
+I complete this challenge.
+
 Result:
 
 ![](ezgif.com-video-to-gif-2.gif)
